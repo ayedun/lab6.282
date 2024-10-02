@@ -1,0 +1,22 @@
+---
+title: "Lab 6: Quarto Presentation"
+author: "Adan Gallardo"
+format: revealjs
+editor: visual
+bibliography: references.bib
+link-citations: TRUE
+---
+
+## Some Important Literature
+
+-   This reference was really cool, because I wrote it. It was my first paper and served as a foundation for my introduction to MD Simulations. @gallardo_proteinnucleic_2022
+
+-   This other reference was written by my colleague who recently finished his post-doc with the lab. He has left for industry. @amith_complex_2023
+
+-   This reference was also written by me so it is cool. I love computational biology. @gallardo_binding_2023
+
+## A cool equation
+
+equation block: $$E = mc^{2}$$
+
+## References
